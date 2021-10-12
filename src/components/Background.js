@@ -3,11 +3,8 @@ import "./Background.css";
 
 export default function Background({ image }) {
   return (
-    <div
-      style={{
-        backgroundImage: `url(${image})`,
-      }}
-      className="background"
-    ></div>
+    <div className="background">
+      <img src={image} alt="Tesla Model" />
+    </div>
   );
 }
