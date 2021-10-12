@@ -1,6 +1,6 @@
 import React from "react";
 import "./Navbar.css";
-import logo from "../images/tesla-logo.svg";
+import logo from "../images/tesla-logo-white.svg";
 
 export default function Navbar() {
   return (
