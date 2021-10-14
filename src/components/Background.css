@@ -1,12 +1,8 @@
-/* .background {
-  background-image: url("../images/tesla9.jpg");
-  background-repeat: no-repeat;
-  background-size: cover;
-  background-position: center center;
-  height: 100vh;
-} */
+.background {
+}
 .background img {
-  min-height: 100vh;
+  display: block;
+  height: 100vh;
   object-fit: cover;
   width: 100%;
 }

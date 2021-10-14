@@ -13,3 +13,7 @@ a {
   text-decoration: none;
   color: black;
 }
+:root {
+  --dark-btn: #333439;
+  --light-btn: #e1dedd;
+}
